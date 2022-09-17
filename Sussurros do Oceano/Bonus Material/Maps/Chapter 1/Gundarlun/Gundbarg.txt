@@ -1,0 +1,21 @@
+G01: Stonerise Keep (on my map I put a small keep on the top of the hill towards the SW of the town where the big clump of trees was and mark it as location 1 instead of the city gate)
+
+G02: Gundbarg Miners Exchange (switched locations with G05 since I wanted the barracks near the keep, and it made sense to have the miners near the road out of town towards the mine)
+
+G03: Dragon Turtle Inn and Festhall (from CftD, takes the place of the Wicker Goat; either would work)
+
+G05: Gundbarg Barracks and Jail (switched locations with G02)
+
+G07: Dwarven Anvil (moved to replace location of Quartermasters of Iuz)
+
+G12: Kingsfleet Tower (now HQ of the local longships fighting pirates)
+
+G13: Crows Nest Tavern (from CftD, serves same purpose in town as Snapping Line; either would work)
+
+G17: Saltwood Storehouse (from CftD, takes location of Dwarven Anvil)
+
+G22: Gimlets Ship Repairs (from CftD, takes place of Ingo the Drover's house)
+
+G26: Temple of the Sealord (Temple of Valkur)
+
+G29: Shrine of the Grain Mother (Shrine of Chauntea, note the nearby field, but you could keep it as a grove of Silvanus instead)
